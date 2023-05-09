@@ -1,16 +1,11 @@
-### Hi there 👋
+Nome: Samuel Asaffe Oliveira Soares
+trabalho: Assistencia Autorizada Samsung  03/2018 - 03/2019
+Estudando: IF goiano  Sistemas de Informação, 03/2020 - presente Momento trancado
+  Senac Goias- Desenvolvedor WEB  04/2023 - 07/2023 
+  Técnico em Redes de Computador 04/2023 - 03/2024
+Tecnologias:
+1. HTML5
+2. CSS
+3. JS
+4. Python
 
-<!--
-**SamuelAsaffe/SamuelAsaffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
